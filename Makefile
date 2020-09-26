@@ -92,7 +92,7 @@ CATEGORIES =	net
 
 # where the source files and patches can be fetched
 #
-MASTER_SITES =		???
+MASTER_SITES =		https://raw.githubusercontent.com/olav35/0x0/master/release/
 #MASTER_SITES =		${MASTER_SITE_SOURCEFORGE:=subdir/}
 #MASTER_SITES =		${MASTER_SITE_foo:=subdir/}
 
