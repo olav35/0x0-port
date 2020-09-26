@@ -14,7 +14,7 @@
 #
 # Very short description of the package (<=60 chars, usually starts lower-case)
 #		|----------------------------------------------------------|
-COMMENT =	???
+COMMENT =	file uploader and URL shortener using https://0x0.st
 # COMMENT-foo =	???	for multi packages
 
 #
