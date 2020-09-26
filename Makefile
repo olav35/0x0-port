@@ -226,7 +226,7 @@ MASTER_SITES =		https://raw.githubusercontent.com/olav35/0x0/master/release/
 # Generally, DON'T set anything to No if it's not needed.
 # The time gained is not worth it.
 #
-#NO_BUILD =		Yes
+NO_BUILD =		Yes
 #NO_TEST =		Yes
 
 # Overrides for default values
