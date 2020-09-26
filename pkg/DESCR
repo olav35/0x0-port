@@ -1,0 +1,7 @@
+0x0 is a command line interface to https://0x0.st. It supports all the features
+of https://0x0.st which are local file upload, remote file upload and URL
+shortening.
+
+It handles errors gracefully by attempting to catch them locally(without making
+a request) when possible and displaying the HTTP status code when the requests
+fail.
