@@ -57,7 +57,7 @@ DISTNAME =	???
 
 # the category used in the directory name, /usr/ports/<category>/portname,
 # must be included and listed first.
-CATEGORIES =	???
+CATEGORIES =	net
 
 # https preferred for HOMEPAGE
 #HOMEPAGE =	???	URL
