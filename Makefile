@@ -82,8 +82,8 @@ CATEGORIES =	net
 # if someone wants to double-check licensing.
 # For GPL, the applicable versions must be included (e.g. v2+, v2 only, v3+).
 # If both PERMIT_* are Yes, just setting 'PERMIT_PACKAGE=Yes' is enough.
-#PERMIT_PACKAGE =	Yes | Reason if No
-#PERMIT_DISTFILES =	Yes | Reason if No
+# ISC
+PERMIT_PACKAGE =	Yes
 
 # If pledge is used, annotate with `uses pledge()' in a comment
 
