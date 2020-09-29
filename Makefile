@@ -142,7 +142,7 @@ MASTER_SITES =		https://raw.githubusercontent.com/olav35/0x0/master/release/
 
 # Dependencies
 #BUILD_DEPENDS =	???
-#RUN_DEPENDS =		???
+RUN_DEPENDS =		net/curl
 #LIB_DEPENDS =		???
 #TEST_DEPENDS =		???
 
