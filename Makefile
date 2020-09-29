@@ -32,7 +32,7 @@ COMMENT =	file uploader and URL shortener using https://0x0.st
 # What port/package will be created
 #
 # DISTNAME should not include suffix (like .tar.gz .tgz .tar.bz2 etc.)
-DISTNAME =	0x0-1.0.1
+DISTNAME =	0x0-1.0.2
 # PKGNAME defaults to DISTNAME unless changed
 #PKGNAME =	???
 #PKGNAME-foo =	???	for multi packages
