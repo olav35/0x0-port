@@ -7,4 +7,5 @@ MAINTAINER =		Olav Fosse <fosseolav@gmail.com>
 PERMIT_PACKAGE =	Yes
 MASTER_SITES =		https://raw.githubusercontent.com/olav35/0x0/master/release/
 NO_BUILD =		Yes
+RUN_DEPENDS = net/curl
 .include <bsd.port.mk>
